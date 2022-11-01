@@ -1,0 +1,32 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ div.title {
+    font-size: 24px;
+    text-align: center;
+ }
+
+
+ div.list {
+    text-align: center;
+ }
+
+ div.list ul{
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 600;
+ }
+
+
+ .menu-images {
+    text-align: center;
+    font-size: 0 px;
+ }
+.image {
+    display: inline-block;
+    height: 500px;
+    width: auto;
+    border: 10px solid rgb(0, 0, 0);
+}
